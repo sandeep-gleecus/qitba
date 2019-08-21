@@ -4,6 +4,14 @@ The initial modifications are mainly changing the asset directories and adjustin
 Changes
 Add .html to navigation links
 Changed the directory representations for assets in markup and styles
+The language flip is implemented per page and will work only on server. Code written in js/functions.min.js
+
+
+Deployment Notes
+- Get the backup of existing source
+- Make sure Arabic translation of all pages are working as expected.
+- Make sure that the HTML extension is being masked
+
 
 Reference
 https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/

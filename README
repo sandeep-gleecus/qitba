@@ -1,2 +1,9 @@
 This is the markup source taken from http://qitba.qa/en/ and modified.
 The initial modifications are mainly changing the asset directories and adjusting the html accordingly.
+
+Changes
+Add .html to navigation links
+Changed the directory representations for assets in markup and styles
+
+Reference
+https://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/

@@ -11,6 +11,7 @@ Deployment Notes
 - Get the backup of existing source
 - Make sure Arabic translation of all pages are working as expected.
 - Make sure that the HTML extension is being masked
+- Make sure that the required PHP files are in tact
 
 
 Reference
